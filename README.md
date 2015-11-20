@@ -4,7 +4,7 @@ This has been changed from what it was before
 
 ## Introduction
 
-This is an example to show different parts of the Git repository and various commands using a web project
+This is some more intro text
 
 ## Purpose
 
