@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This has been changed from what it was before 
+This is just a simple website project for showing how to use Git and Github together
 
 ## Introduction
 
